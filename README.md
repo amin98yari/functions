@@ -8,7 +8,7 @@ Algorithm: Calculate and print the peformu and area of a triangle
   - Exit the program
 - print "mohit=" followed by the value of (a+b+c) (the perimeter of the triangle)
 - Set d to (a+b+c)/2 (the semi-perimeter of the triangle)
-- print "area=" followed by the value of $$\sqrt{d(d-a)(d-b)(d-c)}$$
+- print "area=" followed by the value of sqrt{d(d-a)(d-b)(d-c)}
 -  End
 
 -----------------
