@@ -1,5 +1,5 @@
 # a s triangle
-Algorithm: Calculate and print the perimeter and area of a triangle
+Algorithm: Calculate and print the peformu and area of a triangle
 - Start
 - Declare four float variables: a, b, c, and d
 - Read a, b, and c from the user input (the lengths of the sides of the triangle)
@@ -8,8 +8,8 @@ Algorithm: Calculate and print the perimeter and area of a triangle
   - Exit the program
 - print "mohit=" followed by the value of (a+b+c) (the perimeter of the triangle)
 - Set d to (a+b+c)/2 (the semi-perimeter of the triangle)
-- print "area=" followed by the value of $$\sqrt{d(d-a)(d-b)(d-c)}$$ (the area of the triangle using Heron's formula)
-- End
+- print "area=" followed by the value of $$\sqrt{d(d-a)(d-b)(d-c)}$$
+-  End
 
 -----------------
 
